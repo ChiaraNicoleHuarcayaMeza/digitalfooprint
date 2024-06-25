@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#FFD0D0;
+}
+.titulo{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(202, 135, 135) ;
+  border:3px solid white;
+}
+.titlo p{
+  font-size: 50px;
+  font-weight: bold;
+  color: #A87676
+}
+.subttiulo p{
+font-size: 30px;
+font-weight: bold;
+  color: #A87676
+}
+.content1{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(202, 135, 135) ;
+  border:3px solid white;
+}
+  .content1¨{
+    height: 250px;
+  }
+.content1 p{
+ font-size: 25px;
+  font-weight: bold;
+  color:#A87676;
+  margin: 20px;
+}
